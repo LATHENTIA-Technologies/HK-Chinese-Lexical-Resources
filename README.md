@@ -73,7 +73,7 @@ The author also gratefully acknowledges the scientific exchanges and collaborati
 
 ## Author
 
-**Lian Chen, PhD**
+**Lian Chen, research scientist**
 
 **LATHENTIA Technologies**
 
